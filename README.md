@@ -38,12 +38,6 @@ To clean, analyze, and visualize sales data to help businesses identify patterns
 - `Retail_Sales_Insights_Durga_Prasad_Gadi.pdf` – Final project report with graphs
 - Output screenshots (optional)
 - This `README.md`
-
----
-
-## 📸 Sample Output Visuals
-*(See PDF report or attach images here if you want)*
-
 ---
 
 ## 🚀 How to Run
