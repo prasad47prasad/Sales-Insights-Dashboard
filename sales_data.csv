@@ -1,0 +1,21 @@
+OrderDate,Product,Quantity Ordered,UnitPrice,City
+15-01-2024,Phone Case,3,299,Bangalore
+22-01-2024,Laptop,1,55000,Hyderabad
+05-02-2024,Charger,2,499,Bangalore
+18-02-2024,Smartwatch,1,9999,Delhi
+01-03-2024,USB Cable,4,199,Mumbai
+12-03-2024,Tablet,2,22000,Hyderabad
+05-04-2024,Laptop Stand,1,1500,Pune
+21-04-2024,Phone Case,5,299,Bangalore
+03-05-2024,Headphones,2,1999,Delhi
+19-05-2024,Monitor,1,12000,Hyderabad
+02-06-2024,Keyboard,3,999,Delhi
+10-06-2024,Mouse,2,699,Mumbai
+07-07-2024,Smartphone,1,32000,Bangalore
+14-07-2024,Tablet,1,22000,Chennai
+04-08-2024,USB Cable,10,199,Hyderabad
+20-08-2024,Laptop,2,55000,Mumbai
+11-09-2024,Monitor,1,12000,Delhi
+15-10-2024,Phone Case,4,299,Chennai
+03-11-2024,Keyboard,2,999,Pune
+23-12-2024,Smartwatch,1,9999,Hyderabad
